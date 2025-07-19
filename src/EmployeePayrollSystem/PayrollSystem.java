@@ -1,6 +1,6 @@
 package EmployeePayrollSystem;
 
-import EmployeePayroll.Employee;
+import EmployeePayrollSystem.Employee;
 
 import java.util.ArrayList;
 

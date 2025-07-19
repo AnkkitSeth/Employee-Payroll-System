@@ -1,6 +1,6 @@
 package EmployeePayrollSystem;
 
-import EmployeePayroll.Employee;
+import EmployeePayrollSystem.Employee;
 
 class PartTimeEmployee extends Employee {
     private int hoursWorked;
